@@ -1,2 +1,2 @@
 # nutterbutter
-Functions to make your R code work like Butter!
+Functions to make your R code taste like Butter!
